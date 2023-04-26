@@ -12,6 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(img/wallpaperflare.jpg)
 }
 
 
@@ -80,4 +81,3 @@ body {
     color: rgb(240, 244, 247);
     margin-top: 20px;
 }
-
